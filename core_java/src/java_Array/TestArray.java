@@ -12,7 +12,8 @@ public static void main(String[] args) {
 	System.out.println("-------------------");
 	
 	for(int b : a) {
-		System.out.print(b + ",");
+		System.out.print(b + ", ");
+		
 		
 	}
 	System.out.println();
